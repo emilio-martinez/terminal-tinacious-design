@@ -1,0 +1,26 @@
+{
+  "name": "terminal-tinacious-design",
+  "version": "1.0.0",
+  "description": "Tinacious Design theme for macOS Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilio-martinez/terminal-tinacious-design.git"
+  },
+  "keywords": [
+    "theme",
+    "terminal",
+    "profile",
+    "color",
+    "contrast"
+  ],
+  "author": "Emilio Martinez",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/emilio-martinez/terminal-tinacious-design/issues"
+  },
+  "homepage": "https://github.com/emilio-martinez/terminal-tinacious-design#readme"
+}
